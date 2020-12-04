@@ -1,23 +1,27 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tsunami Reporter</string>
+    <!-- Header that goes above the title of the earthquake event [CHAR LIMIT=50] -->
+    <string name="header_event">Event</string>
 
-    <resources>
-        <!-- Title for the application. [CHAR LIMIT=12] -->
-        <string name="app_name">Tsunami Reporter</string>
-        <!-- Header that goes above the title of the earthquake event [CHAR LIMIT=50] -->
-        <string name="header_event">Event</string>
+    <!-- Header that goes above the date of the earthquake event [CHAR LIMIT=50] -->
+    <string name="header_date">Date</string>
 
-        <!-- Header that goes above the date of the earthquake event [CHAR LIMIT=50] -->
-        <string name="header_date">Date</string>
-
-        <!-- Header that goes above whether or not there was a tsunami alert issued
+    <!-- Header that goes above whether or not there was a tsunami alert issued
              during the earthquake event [CHAR LIMIT=50] -->
-        <string name="header_tsunami_alert">Tsunami Alert?</string>
+    <string name="header_tsunami_alert">Tsunami Alert?</string>
 
-        <!-- Text when there was no tsunami alert issued [CHAR LIMIT=50] -->
-        <string name="alert_no">No</string>
+    <!-- Text when there was no tsunami alert issued [CHAR LIMIT=50] -->
+    <string name="alert_no">No</string>
 
-        <!-- Text when there was a tsunami alert issued [CHAR LIMIT=50] -->
-        <string name="alert_yes">Yes</string>
+    <!-- Text when there was a tsunami alert issued [CHAR LIMIT=50] -->
+    <string name="alert_yes">Yes</string>
 
-        <!-- Text when there was a tsunami alert issued [CHAR LIMIT=50] -->
-        <string name="alert_not_available">Not available</string>
-    </resources>
+    <!-- Text when there was a tsunami alert issued [CHAR LIMIT=50] -->
+    <string name="alert_not_available">Not available</string>
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">Earthquake Settings</string>
+</resources>
